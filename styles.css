@@ -92,7 +92,10 @@ header .container{
 .bodyA div{
   text-align: center;
   padding-top: 7%;
-  font-size: 20px;
+}
+
+.bodyA h2{
+  font-size: 21px;
 }
 
 .bodyA p{
@@ -147,6 +150,7 @@ footer{
   height: 20vh;/* 画面の高さ＝100vh */
   background-color: #FF99CC;
   margin-top: 10px;
+  padding-top: 15px;
   padding-bottom: 15px;
   color: white;
 }
