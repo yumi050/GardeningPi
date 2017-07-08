@@ -146,23 +146,23 @@ header .container{
 footer{
   height: 20vh;/* 画面の高さ＝100vh */
   background-color: #FF99CC;
-  padding-top: 10%;
-  padding-bottom: 10%;
+  padding-top: 5%;
+  padding-bottom: 5%;
   color: white;
 }
 
 .footA{
   text-align: center;
-  font-size: 15px;
+  font-size: 13px;
 }
 
 .footA p{
-  font-size: 13px;
+  font-size: 12px;
 }
 
 .footB{
   text-align: center;
-  font-size: 12px;
+  font-size: 10px;
 }
 
 /* SNSアイコン*/
