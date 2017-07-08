@@ -270,6 +270,81 @@ footer .container{
     text-align: center;
     height: 100vh;/* 画面の高さ＝100vh */
   }
+  
+  /*スマホ画面用 mediaquery*/
+@media(max-width:320px){
+  header .container{
+    display: block;
+    height: 100%;
+  }
+
+  .containerA{
+    width: 100%;
+    margin-left: 0;
+  }
+
+  .containerA h1{
+    font-size: 35px;
+    padding: 0 0 30px;
+  }
+
+  .containerA p{
+    font-size: 18px;
+  }
+
+  .titlePhrase{
+    font-size: 15px;
+  }
+
+  .containerB{
+    width: 100%;
+  }
+
+  .iphoneImage{
+    width: 70%;
+    padding-left: 0;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 15px;
+  }
+
+  .bodyA h2{
+    padding-top: 10%;
+    font-size: 20px;
+    margin: 0 10px;
+  }
+
+  .bodyA p{
+    text-align: center;
+    padding-top: 10%;
+    font-size: 15px;
+  }
+
+  .bodyA-image div{
+    height: 25px;
+    padding-top: 100px;
+    text-align: center;
+    font-size: 30px;
+    color: white;
+    text-shadow: 1px 1px 3px #003;
+  }
+
+  .bodyB .container{
+    height: 55%;
+    display: block;
+
+  }
+
+  .bodyB p{
+    margin-top: -80px;
+  }
+
+  .contents{
+    margin-top: 50px;
+    text-align: center;
+    height: 100vh;/* 画面の高さ＝100vh */
+  }
 
 
 }
