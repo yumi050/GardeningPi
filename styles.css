@@ -149,20 +149,19 @@ header .container{
 footer{
   height: 20vh;/* 画面の高さ＝100vh */
   background-color: #FF99CC;
+  margin: 0;
   padding-top: 30px;
   padding-bottom: 15px;
   color: white;
 }
 
 .footA{
-  margin-top: 20px;
   text-align: center;
 }
 
 .footA h2{
   font-size: 13px;
-  margin-top: 0;
-  padding-top: 25px;
+  margin-top: 25px;
 }
 
 .footA p{
