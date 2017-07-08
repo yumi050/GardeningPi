@@ -169,13 +169,12 @@ footer .container{
 .footA p{
   font-size: 12px;
   margin: 0;
-  padding-bottom: 15px;
 }
 
 /* SNSアイコン*/
 .socialIcons ul{
   display: flex;
-  margin: 20px 0 7px;
+  margin: 20px 0 5px;
   padding: 0;
   list-style: none;
   justify-content: center;
