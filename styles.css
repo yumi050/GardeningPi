@@ -2,8 +2,8 @@
 /*基本色*/
 :root{
   --main-color:#FF99CC;
-  --accent-color:#E3ACA6;
-  --dark-main-color: #4D6A90;
+  --accent-color:#;
+  --dark-main-color: #;
 }
 
 /*基本設定*/
@@ -45,7 +45,7 @@ header .container{
   letter-spacing: 0.3rem;
   margin-left: 0.3rem; /*letter-spacingは右側に余白が挿入するため*/
   text-align: center;
-  text-shadow: 1px 1px 3px #009;
+  text-shadow: 1px 1px 3px #003;
 }
 
 .containerA p{
@@ -114,7 +114,7 @@ header .container{
   text-align: center;
   font-size: 40px;
   color: white;
-  text-shadow: 1px 1px 3px #009;
+  text-shadow: 1px 1px 3px #003;
 }
 
 /*アプリコンテンツ紹介（動画、グラフ、チャット）*/
