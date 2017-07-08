@@ -150,6 +150,7 @@ footer .container{
   height: 20vh;/* 画面の高さ＝100vh */
   background-color: #FF99CC;
   padding-top: 5px;
+  padding-bottom:10px;
   margin-bottom: 0;
   color: white;
 }
@@ -166,7 +167,6 @@ footer .container{
 
 .footA p{
   font-size: 12px;
-  margin-bottom: 5px;
 }
 
 /* SNSアイコン*/
