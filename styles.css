@@ -42,7 +42,7 @@ header .container{
 
 .containerA h1{
   padding: 0 0 80px;
-  font-size: 4vw; /*画面の横幅に合わせてフォントサイズ変更：１vw = 1/100 */
+  font-size: 3vw; /*画面の横幅に合わせてフォントサイズ変更：１vw = 1/100 */
   letter-spacing: 0.3rem;
   margin-left: 0.3rem; /*letter-spacingは右側に余白が挿入するため*/
   text-align: center;
