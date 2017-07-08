@@ -155,6 +155,7 @@ footer .container{
 }
 
 .footA{
+  height: 22vh;/* 画面の高さ＝100vh */
   text-align: center;
 }
 
@@ -167,12 +168,12 @@ footer .container{
   font-size: 12px;
 }
 
-.footB{
+/* .footB{
   text-align: center;
   font-size: 10px;
   padding-bottom: 5px;
   background-color: #FF99CC;
-}
+} */
 
 /* SNSアイコン*/
 .socialIcons ul{
