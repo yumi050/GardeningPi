@@ -197,7 +197,7 @@ footer .container{
 
 
 /*スマホ画面用 mediaquery*/
-@media(max-width:768px){
+@media(max-width:480px){
   header .container{
     display: block;
     height: 100%;
