@@ -47,6 +47,7 @@ header .container{
   margin-left: 0.3rem; /*letter-spacingは右側に余白が挿入するため*/
   text-align: center;
   text-shadow: 1px 1px 3px #003;
+  white-space: nowrap;
 }
 
 .containerA p{
