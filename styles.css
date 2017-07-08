@@ -160,7 +160,8 @@ footer{
 
 .footA h2{
   font-size: 13px;
-  padding-top: 20px;
+  margin-top: 0;
+  padding-top: 25px;
 }
 
 .footA p{
