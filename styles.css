@@ -147,7 +147,7 @@ header .container{
 
 /*フッター*/
 footer .container{
-  height: 20vh;/* 画面の高さ＝100vh */
+  height: 22vh;/* 画面の高さ＝100vh */
   background-color: #FF99CC;
   padding-top: 5px;
 /*   padding-bottom: 15px; */
